@@ -17,7 +17,7 @@ Referencia de README.md: https://gist.github.com/PurpleBooth/109311bb0361f32d87a
 
 # Crawler STJ
 
-Crawler para o site do STJ para obter processos de forma automatizada via Selenium.
+Crawler para o site do STJ para obter processos e jurisprudências de forma automatizada via Selenium.
 
 Inspirado no Projeto Original: https://github.com/courtsbr/stj
 
@@ -51,7 +51,7 @@ until finished
 
 End with an example of getting some data out of the system or using it for a little demo
 
-## Running the tests
+## Como testar
 
 Explain how to run the automated tests for this system
 
@@ -71,25 +71,25 @@ Explain what these tests test and why
 Give an example
 ```
 
-## Deployment
+## Fazendo funcionar
 
 Add additional notes about how to deploy this on a live system
 
-## Built With
+## Feito com
 
 * [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
 * [Maven](https://maven.apache.org/) - Dependency Management
 * [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
 
-## Contributing
+## Como contribuir
 
 Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
 
-## Versioning
+## Versionamento
 
 We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
 
-## Authors
+## Autores
 
 * **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
 
@@ -99,9 +99,8 @@ See also the list of [contributors](https://github.com/your/project/contributors
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
-## Acknowledgments
+## Agradecimentos Especiais
 
 * Hat tip to anyone whose code was used
 * Inspiration
 * etc
-
