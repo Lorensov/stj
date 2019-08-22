@@ -1,3 +1,2 @@
-.Rproj.user
-.Rhistory
-.RData
+*.pyc
+.ipynb_checkpoints/
